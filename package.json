@@ -1,0 +1,28 @@
+{
+  "name": "iota-nodecommander",
+  "version": "0.0.1",
+  "description": "A toolbox for interacting with an IOTA node.",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rantwijk/IOTA-NodeCommander.git"
+  },
+  "keywords": [
+    "IOTA",
+    "Electron",
+    "JS",
+    "Node"
+  ],
+  "author": "Charlie van Rantwijk",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rantwijk/IOTA-NodeCommander/issues"
+  },
+  "homepage": "https://github.com/rantwijk/IOTA-NodeCommander#readme",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
