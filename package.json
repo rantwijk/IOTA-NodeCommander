@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/rantwijk/IOTA-NodeCommander#readme",
   "dependencies": {
-    "electron": "^2.0.18"
+    "electron": "^7.1.2"
   }
 }
